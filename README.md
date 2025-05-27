@@ -1,2 +1,16 @@
-# panolabo-simple-booking-plugin
-Simple booking plugin for WordPress
+# Panolabo Simple Booking Plugin
+
+WordPress サイトに軽量な予約機能を追加します。
+
+## 主な機能
+- カレンダー＋ステップ形式で予約受付  
+- 自動で「ご予約ページ」を生成  
+- 管理画面から営業時間・定員・メール送信元を設定  
+
+## インストール
+1. このリポジトリを `wp-content/plugins/` にコピー  
+2. 管理画面 → プラグイン → 有効化  
+3. 管理画面 → 設定 → 予約設定 から各種パラメータを調整  
+
+## ライセンス
+GPL v2 or later
