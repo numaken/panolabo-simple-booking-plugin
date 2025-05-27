@@ -1,0 +1,12 @@
+{
+    "name": "panolabo/simple-booking-plugin",
+    "description": "Panolabo Simple Booking Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Panolabo\\\\SimpleBookingPlugin\\\\": "src/"
+        }
+    },
+    "require": {}
+}
